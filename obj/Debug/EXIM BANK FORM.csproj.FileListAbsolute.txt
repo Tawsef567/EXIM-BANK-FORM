@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\EXIM BANK FORM\bin\Debug\EXIM BANK FORM.exe.config
+C:\Users\hp\source\repos\EXIM BANK FORM\bin\Debug\EXIM BANK FORM.exe
+C:\Users\hp\source\repos\EXIM BANK FORM\bin\Debug\EXIM BANK FORM.pdb
+C:\Users\hp\source\repos\EXIM BANK FORM\obj\Debug\EXIM BANK FORM.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\EXIM BANK FORM\obj\Debug\EXIM_BANK_FORM.Form1.resources
+C:\Users\hp\source\repos\EXIM BANK FORM\obj\Debug\EXIM_BANK_FORM.Properties.Resources.resources
+C:\Users\hp\source\repos\EXIM BANK FORM\obj\Debug\EXIM BANK FORM.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\EXIM BANK FORM\obj\Debug\EXIM BANK FORM.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EXIM BANK FORM\obj\Debug\EXIM BANK FORM.exe
+C:\Users\hp\source\repos\EXIM BANK FORM\obj\Debug\EXIM BANK FORM.pdb
